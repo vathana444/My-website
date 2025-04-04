@@ -6,8 +6,8 @@ const personalData = {
   email: 'zinvahana@gmail.com',
   contactNumber: '0979575642',
   adress: 'cambodia, phnom penh, Earth',
-  fbLink: 'https://YourFacebookLink.com',
-  instagramLink: 'https://YourInstagramLink.com',
+  fbLink: 'https://web.facebook.com/vathana.vtl',
+  instagramLink: 'https://www.instagram.com/live_4justice?igsh=cm11YzRneDZsYm01&utm_source=qr',
   twitterLink: 'https://YourTwitterLink.com',
   aboutMe: 'I am a passionate student and digital creator who has built this website with creativity, dedication, and user experience in mind. Whether you’re looking to expand your online presence or invest in a well-crafted platform, this website offers great potential. I am open to selling to the right buyer who values its design, functionality, and growth opportunities.',
   skills: [ {
